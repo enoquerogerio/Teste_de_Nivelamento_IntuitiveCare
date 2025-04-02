@@ -1,0 +1,18 @@
+# Virtual enviroment
+venv/
+venv*/
+.Python
+bin/
+include/
+lib/
+lib64/
+pip-selfcheck.json
+
+# IDE file
+.vscode/
+.idea/
+*.iml
+*.pyc
+
+# Compiled Python files
+*.pyc
